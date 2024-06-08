@@ -4,7 +4,7 @@ import cv2
 # Se hace referencia a la haarcascade.
 face_cascade = cv2.CascadeClassifier ('haarcascade_frontalface_default.xml')
 
-.¿
+
 #Referencia hacia la camara.
 cap = cv2.VideoCapture(0)
 
