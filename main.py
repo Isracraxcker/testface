@@ -1,14 +1,14 @@
 import cv2 
 
 
-# Se hace referencia a la haarcascade
+# Se hace referencia a la haarcascade.
 face_cascade = cv2.CascadeClassifier ('haarcascade_frontalface_default.xml')
 
-
-#Referencia hacia la camara
+.¿
+#Referencia hacia la camara.
 cap = cv2.VideoCapture(0)
 
-# While infinito para detectar fotogramas
+# While infinito para detectar fotogramas.
 while True:
     _, img = cap.read()
     #Convertimos a escala de grises
