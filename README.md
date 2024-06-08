@@ -1,7 +1,7 @@
 
  ## DESCRIPCION
 
-En el video de hoy, aprenderemos a crear un software para el reconocimiento de rostros utilizando OpenCV y Python en menos de 18 líneas de código. 
+Creacion un software para el reconocimiento de rostros utilizando OpenCV y Python en menos de 18 líneas de código. 
 Además, modificaremos el programa para detectar en tiempo real, empleando un Haar Cascade especializado.
 
 **Contenido**
